@@ -1,37 +1,43 @@
 ## 도서 관리 프로그램
+<br>
 
-You can use the [editor on GitHub](https://github.com/cdj6995/LibraryProgram/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 1. 프로젝트 개요
+ - 책을 잘 읽지 않는 현대사회에서 책을 잘 읽어보자는 의미에서 도서관리 프로그램을 만들어 보았다.
+ - 먼저 관리자만 접근이 가능한 도서 관리 및 회원 관리 프로그램에 들어가 도서 및 회원을 등록 한다.
+ - 이후 회원으로 로그인 하여 도서 대여 및 반납을 진행한다.
+ - 도서 대여 및 반납을 할 경우 도서 및 회원의 정보가 실시간으로 수정된다.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2. 사용 기술
+ - Java
+ - Eclipse IDE for java Developers 2021-12
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
+### 3. 구성
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+### 유튜브 영상
+InMemeory 방식
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Ccl5q5jw9oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Numbered
-2. List
+파일저장 방식
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/0a6Hn6GaTGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Bold** and _Italic_ and `Code` text
+<br>
 
-[Link](url) and ![Image](src)
-```
+### 느낀점
+ - 처음으로 스스로 코드를 짜보며 프로젝트를 진행해 보았는데 비록 코드는 깔끔하지 않고 정리되지 않은 느낌이지만<br>
+ 하나씩 진행되는 것을 보고 뿌듯함을 느꼈음
+ - 이번 프로젝트를 통해 앞으로 내가 가야할 길이 쉽지 않을 것이라는 것을 느끼고 더욱 열심히 해야겠다는 생각을 가지게됨
+ - 자바 수업을 듣고 문법에 대한 이해를 했다 생각했음에도 스스로 코드를 짜보니 아직 많이 부족함을 느낌
+ - 인터페이스, 클래스, 메서드들을 잘 사용하여 코드를 깜끔하게 하면 더 좋을 것 같음
+ - 파일 저장 시 txt파일뿐만 아니라 excel파일로도 저장 할 수 있으면 더욱 좋았을거 같음
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### [소스코드](https://github.com/cdj6995/LibraryProgram)
+### [포트폴리오](https://cdj6995.github.io/LibraryProgram/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cdj6995/LibraryProgram/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
