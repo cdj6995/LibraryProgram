@@ -38,7 +38,10 @@ InMemeory 방식
  - 파일 저장 시 txt파일뿐만 아니라 excel파일로도 저장 할 수 있으면 더욱 좋았을거 같음
 
 
-### [소스코드](https://github.com/cdj6995/LibraryProgram)
+### 소스코드
+[InMemory](https://github.com/cdj6995/LibraryProgram/tree/main/Project01)
+[파일저장](https://github.com/cdj6995/LibraryProgram/tree/main/ProjectIO01)
+
 ### [포트폴리오](https://cdj6995.github.io/LibraryProgram/)
 
 
