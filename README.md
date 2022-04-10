@@ -1,4 +1,4 @@
-## 도서 관리 프로그램 (수정 중...)
+## 도서 관리 프로그램
 <br>
 
 ### 1. 프로젝트 개요
@@ -10,17 +10,24 @@
 <br>
 
 ### 2. 사용 기술
- - Java
+ - JDK 1.8
  - Eclipse IDE for java Developers 2021-12
-
 
 <br>
 
 ### 3. 구성
+ - Book : 책에 관한 메소드를 가지고 있는 인터페이스
+ - Member : 회원에 관한 메소드를 가지고 있는 인터페이스
+ - Books : 책에 대한 정보를 입력받는 클래스
+ - Members : 회원에 관한 정보를 입력받는 클래스
+ - BookList : 책들에 대한 정보를 모아주고 보여주는 기능들을 하는 클래스
+ - MemberList : 회원들에 대한 정보를 모아주고 보여주는 기능들을 하는 클래스
+ - Libraryview : 책들과 회원들의 상호작용을 하는 기능들을 하는 클래스
+ - LibraryMain : 도서관리 프로젝트를 진행 할 곳
 
 <br>
 
-### 유튜브 영상
+### 4. 유튜브 영상
 InMemeory 방식
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Ccl5q5jw9oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,7 +36,7 @@ InMemeory 방식
 
 <br>
 
-### 느낀점
+### 5. 느낀점, 아쉬운점
  - 처음으로 스스로 코드를 짜보며 프로젝트를 진행해 보았는데 비록 코드는 깔끔하지 않고 정리되지 않은 느낌이지만<br>
  하나씩 진행되는 것을 보고 뿌듯함을 느꼈음
  - 이번 프로젝트를 통해 앞으로 내가 가야할 길이 쉽지 않을 것이라는 것을 느끼고 더욱 열심히 해야겠다는 생각을 가지게됨
@@ -43,5 +50,3 @@ InMemeory 방식
 [파일저장](https://github.com/cdj6995/LibraryProgram/tree/main/ProjectIO01)
 
 ### [포트폴리오](https://cdj6995.github.io/LibraryProgram/)
-
-
